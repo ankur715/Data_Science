@@ -1,4 +1,6 @@
-## Machine Learning
+## Machine Learning  
+
+<p align="left"><img width="450" height="300" src="https://hackernoon.com/drafts/e11c20yk.png"></p>
 
 ---
 
