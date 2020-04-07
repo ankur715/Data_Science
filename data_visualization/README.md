@@ -15,7 +15,7 @@
 - Pair Plot
 - Count Plot
 
-### Bokeh
+### [Bokeh](https://github.com/ankur715/data_science/blob/master/data_visualization/dv_boreh.ipynb)
 - Basic Data Exploration with Pandas
 - Explanation of Bokeh Packages
 - Plotting with Glyphs
@@ -25,7 +25,7 @@
 - Layouts
 - Linking Plots
 
-### Rare Visualization
+### [Rare Visualization](https://github.com/ankur715/data_science/blob/master/data_visualization/dv_rare_visualization.ipynb)
 - Matrix and Box Plots (Missingno)
 - Parallel Plots (Pandas)
 - Network Charts (Networkx)
