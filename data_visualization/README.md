@@ -1,9 +1,38 @@
 ## Data Visualization
 
 ---
-### [Seaborn](www.google.com)
+### [Seaborn](https://github.com/ankur715/data_science/blob/master/data_visualization/dv_seaborn.ipynb)
+- Bar Plot
+- Point Plot
+- Joint Plot
+- Pie Chart
+- Lm Plot
+- Kde Plot
+- Violin Plot
+- Heatmap
+- Box Plot
+- Swarm Plot
+- Pair Plot
+- Count Plot
 
 ### Bokeh
+- Basic Data Exploration with Pandas
+- Explanation of Bokeh Packages
+- Plotting with Glyphs
+- Additional Glyps
+- Data Formats
+- Customizing Glyphs
+- Layouts
+- Linking Plots
 
 ### Rare Visualization
-
+- Matrix and Box Plots (Missingno)
+- Parallel Plots (Pandas)
+- Network Charts (Networkx)
+- Venn (Matplotlib)
+- Donut (Matplotlib)
+- Spider Chart (Matplotlib)
+- Cluster Map (Seaborn)
+- Inset Plots (Plotly)
+- Basic 3D Scatter Plot (Plotly)
+- Earthquare Animation (Plotly)
