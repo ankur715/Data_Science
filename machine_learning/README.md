@@ -1,6 +1,6 @@
 ## Machine Learning  
 
-<p align="left"><img width="450" height="300" src="https://hackernoon.com/drafts/e11c20yk.png"></p>
+<p align="left"><img width="600" height="400" src="https://hackernoon.com/drafts/e11c20yk.png"></p>
 
 ---
 
