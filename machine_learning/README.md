@@ -2,7 +2,7 @@
 
 ---
 
-- Supervised Learning
+- [Supervised Learning](https://github.com/ankur715/data_science/blob/master/machine_learning/machine_learning.ipynb)
   - EDA(Exploratory Data Analysis)
   - K-Nearest Neighbors (KNN)
   - Regression
@@ -10,7 +10,7 @@
   - ROC Curve
   - Hyperparameter Tuning
   - Pre-procesing Data
-- Unsupervised Learning
+- [Unsupervised Learning](https://github.com/ankur715/data_science/blob/master/machine_learning/machine_learning.ipynb)
   - Kmeans Clustering
   - Evaluation of Clustering
   - Standardization
@@ -19,7 +19,7 @@
   - Principle Component Analysis (PCA)
 
 
-- ROC Curve
+- [ROC Curve](https://github.com/ankur715/data_science/blob/master/machine_learning/roc_curve.ipynb)
   - how to make ROC for binary labeled data
   - In this tutorial we will learn how to use
     - Random forest classifier
