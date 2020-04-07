@@ -1,6 +1,6 @@
 ## Deep Learning
 
-<p align="left"><img width="800" height="400" src="https://www.inovex.de/blog/wp-content/uploads/2019/10/Uncertainty-Quantification-Deep-Learning-hero.png"></p>
+<p align="left"><img width="600" height="300" src="https://www.inovex.de/blog/wp-content/uploads/2019/10/Uncertainty-Quantification-Deep-Learning-hero.png"></p>
 
 ---
 
