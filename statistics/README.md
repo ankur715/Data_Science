@@ -1,6 +1,6 @@
 ## [Statistics](https://github.com/ankur715/data_science/blob/master/statistics/statistics.ipynb)
 
-<p align="left"><img width="600" height="300" src="https://stepupanalytics.com/wp-content/uploads/2018/07/statistics-for-data-science.gif"></p>
+<p align="left"><img width="600" height="350" src="https://stepupanalytics.com/wp-content/uploads/2018/07/statistics-for-data-science.gif"></p>
 
 ---
 
