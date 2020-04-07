@@ -1,4 +1,4 @@
-## Statistics
+## [Statistics](https://github.com/ankur715/data_science/blob/master/statistics/statistics.ipynb)
 
 ---
 
