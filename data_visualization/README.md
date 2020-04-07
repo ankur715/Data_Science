@@ -1,5 +1,7 @@
 ## Data Visualization
 
+<p align="left"><img width="600" height="400" src="https://i.pcmag.com/imagery/articles/02Xkt5sp3fVl5rGUtk3DXMi-7.fit_scale.size_2698x1517.v1569485349.jpg"></p>
+
 ---
 ### [Seaborn](https://github.com/ankur715/data_science/blob/master/data_visualization/dv_seaborn.ipynb)
 - Bar Plot
